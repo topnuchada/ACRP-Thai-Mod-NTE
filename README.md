@@ -83,6 +83,7 @@ pakchunk3001-Windows_3001_P.pak
 pakchunk3001-Windows_3001_P.ucas
 pakchunk3001-Windows_3001_P.utoc
 ```
+- ลบอีก 2 ไฟล์คือ NTESigBypasser.asi  และ  winhttp.dll  ที่อยู่ใน \HT\Binaries\Win64  ลบได้ ในกรณีที่ไม่ต้องการใช้ MOD จากที่อื่นๆด้วย ถ้ายังอยากใช้MOD ของที่อื่นต่อไม่ต้องลบ2 ไฟล์นี้ออก
 
 > ⚠️ **ห้ามลบโฟลเดอร์ `HT` ทั้งก้อน**
 
@@ -139,7 +140,8 @@ MOD ภาษาไทยนี้ **แจกฟรี** ไม่มีกา�
 
 > การสนับสนุนเป็นไปโดยสมัครใจ และไม่ใช่ค่าซื้อ MOD
 
-**QR PromptPay จะวางไว้ในส่วนนี้**
+
+<img width="463" height="362" alt="LineMediaPlayer_93xuAn53f1" src="https://github.com/user-attachments/assets/3b4e9f87-7761-465f-bc28-9575b9e1f1dd" />
 
 ---
 
