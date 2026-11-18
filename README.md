@@ -9,7 +9,7 @@
 
 ดาวน์โหลดเวอร์ชันล่าสุดได้ที่หน้า **Releases** ของโปรเจกต์
 
-**Latest Release:** ACRP NTE Thai Mod v15.1 [NTE v1.5.4]  
+**Latest Release:** ACRP NTE Thai Mod v15.2 [NTE v1.5.5]  
 https://github.com/topnuchada/ACRP-Thai-Mod-NTE/releases/latest
 
 ---
